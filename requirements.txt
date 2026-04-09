@@ -1,3 +1,1 @@
-ultralytics
-gradio
-opencv-python
+ultralytics\ngradio\nopencv-python\npython-dotenv\npyyaml
